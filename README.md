@@ -1,12 +1,4 @@
 # A-Convolution-based-Approach-for-fixed-pattern-noise-removal-in-OCR
-* Abstract *
-There is some fixed-pattern noise in the OCR text 
-image and the denosing is needed to improve the accuracy of 
-recognition. In this paper, a convolution-based approach for 
-the fixed-pattern noise removal in OCR is proposed. The 
-approach identifies the location of text content pixels and 
-removes noise pixels based on the convolution kernel. The 
-experiment shows that the approach is an effective way to 
-remove the underline and improve the accuracy of recognition. 
-For its generality, the algorithm is also applicable of removing 
-other type of fixed-pattern noise.
+[Paper Available](https://github.com/jlzcode/A-Convolution-based-Approach-for-fixed-pattern-noise-removal-in-OCR/blob/main/A%20Convolution-based%20Approach%20for%20fixed-pattern%20noise%20removal%20in%20OCR.pdf)
+## Abstract
+There is some fixed-pattern noise in the OCR text image and the denosing is needed to improve recognition accuracy. This paper proposes a convolution-based approach for fixed-pattern noise removal in OCR. The approach identifies the location of text content pixels and removes noise pixels based on the convolution kernel. The experiment shows that the approach is an effective way to remove the underline and improve recognition accuracy. For its generality, the algorithm is also applicable to removing another type of fixed-pattern noise.
